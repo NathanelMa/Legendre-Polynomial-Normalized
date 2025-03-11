@@ -32,5 +32,5 @@ and then constructing the projection of the function onto the polynomial basis.
 ## **Plt**
 <p align="center">
    <img src="https://github.com/user-attachments/assets/694667f8-5808-4c10-9df3-5531f440b1f8" width="30%" />
-   <img src="https://github.com/user-attachments/assets/80e67e40-a79a-4c27-87ed-02af847d80b2" width="30%" />
+   <img src="https://github.com/user-attachments/assets/80e67e40-a79a-4c27-87ed-02af847d80b2" width="60%" />
 </p>
