@@ -28,10 +28,17 @@ and then constructing the projection of the function onto the polynomial basis.
 4. **`main()`**:
    - The main function demonstrates the projection of two specific functions, \( \sin(x) \) and \( e^{\sqrt{\left| \frac{x}{7} \right|}} \), onto the Legendre polynomial basis. The projections are then visualized along with the original functions.
 
-## Usage
 
+## **Plt**
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/694667f8-5808-4c10-9df3-5531f440b1f8" width="12%" />
+   <img src="https://github.com/user-attachments/assets/694667f8-5808-4c10-9df3-5531f440b1f8" width="12%" />
+</p>
+
+## Usage!
 To run the script, simply execute the Python file:
 
 ```bash
 python legendre_projection.py
+
 
