@@ -1,4 +1,4 @@
-# Legendre Polynomial Projection
+# Legendre Polynomial
 
 This repository contains a Python script for projecting functions onto a set of normalized Legendre polynomials using numerical integration.
 
